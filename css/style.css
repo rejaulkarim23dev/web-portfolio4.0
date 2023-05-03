@@ -1,8 +1,51 @@
 body{
-
+  font-family: 'Roboto', sans-serif;
+  margin: 0%;
 }
 h1{
-  font-size: 50px;
-  font-family: 'Roboto', sans-serif;
-  color: forestgreen;
+  font-size: 40px;
+}
+
+#dv{
+  color: darkolivegreen;
+  font-size: 30px;
+}
+.rname{
+  color: orange;
+}
+
+.secone{
+  height: 600px;
+  background-image: url(../images/top-banner.png);
+  background-repeat: no-repeat;
+
+}
+
+.one-div{
+  width: 40%;
+  margin-left:5%;
+  padding-left:2%;
+  float: left;
+
+}
+.one-div img{
+  width: 100%;
+}
+.fst-para{
+  text-align: justify;
+}
+.hirebtn{
+  text-decoration: none;
+  background-image:linear-gradient(45deg, lightsalmon, tomato);
+  border-radius: 5px;
+  padding: 10px 25px;
+  border: none;
+
+}
+.hirebtn a{
+  text-align: center;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: white;
+  font-weight: 700;
 }
