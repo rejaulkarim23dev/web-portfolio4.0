@@ -15,9 +15,10 @@ h1{
 }
 
 .secone{
-  height: 600px;
+  height: 500px;
   background-image: url(../images/top-banner.png);
   background-repeat: no-repeat;
+  margin-bottom: 150px;
 
 }
 
@@ -33,6 +34,7 @@ h1{
 }
 .fst-para{
   text-align: justify;
+  color: dimgray;
 }
 .hirebtn{
   text-decoration: none;
@@ -40,12 +42,21 @@ h1{
   border-radius: 5px;
   padding: 10px 25px;
   border: none;
+  text-transform: uppercase;
 
 }
 .hirebtn a{
   text-align: center;
   text-decoration: none;
-  text-transform: capitalize;
-  color: white;
+  color: #ffffff;
   font-weight: 700;
+}
+
+.dreamh{
+  font-size: 35px;
+  color:#69a069;
+}
+.dreamh3{
+  font-size: 30;
+  color: rgb(42, 115, 91);
 }
