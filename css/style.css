@@ -67,4 +67,64 @@ h1{
   margin-bottom: 150px;
   background-position: right;
 
+}.secthree{
+  height: 500px;
+  margin-bottom: 150px;
+  background-image: url(../images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.secthree h1{
+  color:#022424
+}
+
+
+.three-div{
+  width: 24%;
+  margin-left: 5%;
+  padding-left:2%;
+  padding-right: 1%;
+  float: left;
+  text-align:left;
+  box-shadow: 10px 10px 40px gray;
+  height: 50%;
+  background-color: white;
+
+}
+.three-div p{
+  text-align: justify;
+  color: dimgray;
+}
+
+.three-div h2{
+  color: #69a069;
+}
+
+.three-div h3{
+  color: orange;
+}
+
+#frontdev{
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, lightsalmon, tomato);
+  border-image-slice: 1;
+}
+
+#backdev{
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, cyan, blue);
+  border-image-slice:1;
+
+}
+#fullstackdev{
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, #eeff00, rgb(11, 220, 7));
+  border-image-slice:1;
+}
+
+footer p{
+  font-size: 15px;
+  color: #022424;
+  text-align: center;
+
 }
