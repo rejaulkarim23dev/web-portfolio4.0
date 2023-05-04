@@ -15,7 +15,7 @@ h1{
 }
 
 .secone{
-  height: 500px;
+  height: 600px;
   background-image: url(../images/top-banner.png);
   background-repeat: no-repeat;
   margin-bottom: 150px;
@@ -59,4 +59,12 @@ h1{
 .dreamh3{
   font-size: 30;
   color: rgb(42, 115, 91);
+}
+.sectwo{
+  height: 600px;
+  background-image: url(../images/dream-bg.png);
+  background-repeat: no-repeat;
+  margin-bottom: 150px;
+  background-position: right;
+
 }
